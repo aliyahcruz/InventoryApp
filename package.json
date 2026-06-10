@@ -1,8 +1,0 @@
-{
-  "name": "inventory-ndc-scanner",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},
-  "dependencies": {"@zxing/browser":"0.1.5","@zxing/library":"0.21.3","next":"14.2.23","react":"18.3.1","react-dom":"18.3.1"},
-  "devDependencies": {"@types/node":"20.19.0","@types/react":"18.3.23","@types/react-dom":"18.3.7","eslint":"8.57.1","eslint-config-next":"14.2.23","typescript":"5.8.3"}
-}
